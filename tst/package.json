@@ -1,0 +1,20 @@
+{
+  "name": "tst",
+  "version": "1.0.0",
+  "description": "typesafe training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "traitrds",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "superagent": "^2.3.0"
+  }
+}
